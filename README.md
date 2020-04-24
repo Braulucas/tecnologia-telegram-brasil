@@ -304,6 +304,7 @@
 - [vagaum - vagas de trabalho para programadores](https://t.me/vagaumdev)
 
 ### outros 
+- [rpa & ia brasil](https://t.me/rpaeiabrasil)
 - [acessibilidade na web](https://telegram.me/acessibilidadenaweb)
 - [api builders br](https://t.me/apibuilders)
 - [bitcoin brasil](https://telegram.me/brasilbitcoin )
